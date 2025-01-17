@@ -1,0 +1,4 @@
+Rectangle rectangle_shape 75.0 50.0 200.0 200.0 0.1 0.0
+Circle cc 50.0 10.0 10.0 0.0 0.1
+Rectangle rectangle_shape2 100.0 100.0 400.0 400.0 0.1 0.1
+Circle cc 10.0 300.0 300.0 0.1 0.9
